@@ -26,6 +26,5 @@
       right: { val: 7, left: { val: 7, left: null, right: null }, right: null },
     },
   };
-  
   console.log(`测试结果为：${maxDepth(a)}`);
   
